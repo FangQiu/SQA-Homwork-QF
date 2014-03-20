@@ -6,8 +6,8 @@ In this chapter, we mainly talk about software quality engineering, primarily in
 ##chapter6
 This chapter is an overview of testing, we described basic concepts of testing and examined various questions and issues related to testing. We also discuss the similarities and differences among different test activities and techniques by examining some systematic questions about testing. In addition, we classified the major testing techniques by two important criteria: functional VS. structural testing and coverage-based VS. usage-based testing.
 ###Rate 5 classmates of homework 2 
-*FuHua 13126070 A
-*FengXiangMin 13126069 A
-*HuangMingEn 13126083 A
-*DongXiao 13126064 A
-*LiuMiao 13126105 A
++FuHua 13126070 A
++FengXiangMin 13126069 A
++HuangMingEn 13126083 A
++DongXiao 13126064 A
++LiuMiao 13126105 A
