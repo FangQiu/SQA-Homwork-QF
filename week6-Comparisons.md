@@ -1,5 +1,7 @@
 # Comparisons between testing and other QA alternatives
-In chapter 17, I find out some pairwise comparisons between testing and other QA alternatives. Those QA alternatives are defect prevention (DP), inspection, formal verification (FV), fault tolerance (FT), failure containment (FC), etc.
+
+In chapter 17, I find out some pairwise comparisons between testing and other QA alternatives. Those QA alternatives are defect prevention, inspection, formal verification, fault tolerance, failure containment, etc.
+
 ##Testing vs Defect prevention
 * Object: code vs implementation.
 * Development activity/phase: testing phase and after vs implementation.
@@ -17,6 +19,7 @@ In chapter 17, I find out some pairwise comparisons between testing and other QA
 * Problem types: dynamic failures & related faults vs static & localized faults.
 * Result interpretation: moderate vs easy.
 * Cost: medium(low-high) vs low-medium.
+
 ##Testing vs Formal verification
 * Object: code vs design/code with formal specification.
 * Development activity/phase: testing phase and after vs design/coding.
@@ -25,6 +28,7 @@ In chapter 17, I find out some pairwise comparisons between testing and other QA
 * Problem types: dynamic failures & related faults vs local faults.
 * Result interpretation: moderate vs hard.
 * Cost: medium(low-high) vs high.
+
 ##Testing vs Fault tolerance	
 * Object: code vs operational software system.
 * Development activity/phase: testing phase and after vs in-field operation.
@@ -33,6 +37,7 @@ In chapter 17, I find out some pairwise comparisons between testing and other QA
 * Problem types: dynamic failures & related faults vs operational failures in small areas.
 * Result interpretation: moderate vs hard.
 * Cost: medium(low-high) vs high.
+
 ##Testing vs Failure containment
 * Object: code vs system with potential accidents.
 * Development activity/phase: testing phase and after vs in-field operation.
